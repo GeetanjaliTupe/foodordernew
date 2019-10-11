@@ -1,0 +1,117 @@
+.mydiv{
+    
+    width:100%;
+    position: relative;
+    display:table;
+        
+}
+.inner_div
+{
+    display:table-cell;
+    padding : 20px;
+    
+
+
+}
+.imgdiv{
+    border: 1px solid black;
+    width:78%;
+    padding : 20px;
+    
+    
+}
+
+body{
+    padding: 20px;
+}
+.imgdiv img{
+    width: 350px;
+    height:350px; 
+    
+           
+}
+.img_dis{
+    padding:10px;
+}
+.price{
+    font-family: cursive;
+    font-weight: 700;
+    color: brown;
+}
+.res_name{
+    color: rgb(53, 5, 10);
+    font-size: 16px;
+    font-family: cursive;
+    font-weight: 900; 
+}
+.img_dis h2{
+    margin-bottom: 2px !Important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:mediumslateblue;
+}
+.offers .fa{
+    color: rgb(241, 36, 36);
+    font-size: 30px;
+}
+.myoff_icon{
+    position: relative;
+}
+.icon-text{
+    position: absolute;
+    color: white;
+    top: 9px;
+    left: 2px;
+    font-size: 12px !important;
+    color: black;
+}
+.rating-text
+{  position: absolute;
+    color: white;
+    top: 11px;
+    left: 2px;
+    font-size: 12px !important;
+    color: black;
+}
+
+
+.IJsqo{
+    position: absolute;
+    left: 12px;
+    top: 20px;
+    background-color: #8a584b;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 5px 9px 4px;
+    max-width: 50%;
+    text-transform: uppercase;
+    border-color: #8a584b;
+    background: rgb(250, 74, 91); color: rgb(255, 255, 255); border-color: rgb(209, 42, 59) transparent;
+}
+._1kXWW{    
+    overflow: hidden;
+    white-space: nowrap;
+}
+.IJsqo::before {
+    position: absolute;
+    bottom: -9px;
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-color: inherit;
+    left: 0;
+    border-width: 9px 0 0 9px;
+}
+._1kXWW::after {
+    box-sizing: inherit !important;
+}
+.button_order
+{
+    background-color:brown;
+    color:white;
+    font-family: cursive;
+    border:2px solid black;
+    font-size: 12px;
+font-weight: 750;
+}
